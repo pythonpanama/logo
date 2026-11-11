@@ -1,0 +1,24 @@
+name: Solicitud de nuevo recurso visual
+description: Solicitar una nueva variante, formato o adaptación de los logos de Python Panamá.
+title: "[ASSET]: "
+labels: ["enhancement", "assets"]
+body:
+  - type: markdown
+    attributes:
+      value: Gracias por proponer una adición o nuevo recurso para Python Panamá.
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripción del recurso solicitado
+      description: ¿Qué variante o formato se necesita? (por ejemplo, SVG vectorial, favicon, banner para LinkedIn, etc.)
+      placeholder: Se requiere una versión en formato SVG con fondo transparente para...
+    validations:
+      required: true
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Caso de uso
+      description: ¿Para qué evento, medio o plataforma se utilizará este activo?
+      placeholder: Se utilizará en el sitio web de la comunidad y en presentaciones para conferencias.
+    validations:
+      required: true

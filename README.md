@@ -1,27 +1,58 @@
-# Python Panamá Logos
+# Python Panamá — Brand Assets & Logos
 
-Este repositorio contiene los logos oficiales de Python Panamá.
+<div align="center">
+  <img src="logos/python_v23.1.jpg" alt="Python Panamá Logo" width="280"/>
+  <p>Repositorio oficial de recursos visuales, logos y directrices de marca de la comunidad <strong>Python Panamá</strong>.</p>
 
-## Contenido
+  <p>
+    <a href="docs/brand-guidelines.md"><img src="https://img.shields.io/badge/Brand%20Guidelines-Documentación-306998?style=flat-square" alt="Brand Guidelines"/></a>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/Licencia-MIT-FFD43B?style=flat-square&labelColor=306998" alt="Licencia"/></a>
+    <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contribuciones-Bienvenidas-brightgreen?style=flat-square" alt="Contribuciones"/></a>
+  </p>
+</div>
 
-- `logos/python_v23.1.jpg`
-- `logos/python_v23.jpg`
+---
 
-## Uso
+## 📁 Catálogo de Activos
 
-Puedes utilizar estos logos para eventos, presentaciones y cualquier material relacionado con Python Panamá. 
-Por favor, sigue las directrices de uso de la comunidad y solicita permiso a los coordinadores antes de utilizarlos.
+| Vista previa | Archivo | Formato | Descripción | Enlace |
+| :---: | :--- | :---: | :--- | :---: |
+| <img src="logos/python_v23.1.jpg" width="100"/> | `python_v23.1.jpg` | JPG | Logo oficial de la comunidad (versión 23.1) | [Descargar](logos/python_v23.1.jpg) |
+| <img src="logos/python_v23.jpg" width="100"/> | `python_v23.jpg` | JPG | Logo alterno de la comunidad (versión 23.0) | [Descargar](logos/python_v23.jpg) |
 
-## Contribuciones
+---
 
-Si deseas contribuir con nuevos logos o mejoras, por favor sigue estos pasos:
+## 🎨 Paleta de Colores
 
-1. Haz un fork de este repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-rama`).
-3. Realiza tus cambios y haz commit (`git commit -m 'Añadir nuevo logo'`).
-4. Envía tus cambios (`git push origin feature/nueva-rama`).
-5. Abre un Pull Request.
+| Color | HEX | Muestra |
+| :--- | :---: | :---: |
+| **Python Blue** | `#306998` | 🟦 |
+| **Python Yellow** | `#FFD43B` | 🟨 |
+| **Dark Slate** | `#1E415E` | ⬛ |
 
-## Licencia
+Para directrices de tipografía, márgenes de respeto y ejemplos de aplicación, consulta la [**Guía de Uso de Marca**](docs/brand-guidelines.md).
 
-Este proyecto está licenciado bajo la MIT License.
+---
+
+## 📌 Condiciones de Uso
+
+Estos recursos gráficos están disponibles para:
+- Promoción de eventos, charlas, talleres y meetups organizados por o en conjunto con Python Panamá.
+- Presentaciones académicas o de divulgación tecnológica relacionadas con la comunidad.
+- Material promocional aprobado por los coordinadores de la comunidad.
+
+> [!IMPORTANT]
+> **No está permitido** alterar los colores, estirar o distorsionar los logos, ni utilizarlos con fines comerciales no autorizados.
+
+---
+
+## 🤝 Cómo Contribuir
+
+¿Deseas aportar versiones en formatos vectoriales (`.svg`), con fondos transparentes (`.png`) o nuevas variantes visuales?
+Por favor, consulta la [**Guía de Contribución**](CONTRIBUTING.md) para conocer las directrices técnicas y el flujo de trabajo con Pull Requests.
+
+---
+
+## 📜 Licencia
+
+Los recursos y la documentación de este repositorio están disponibles bajo la [Licencia MIT](LICENSE). El logo de Python y sus marcas asociadas son marcas registradas de la [Python Software Foundation](https://www.python.org/psf/).
